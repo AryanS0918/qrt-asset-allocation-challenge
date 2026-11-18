@@ -1,0 +1,8 @@
+data/
+*.csv
+benchmark_submission.ipynb
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.venv/
+venv/
